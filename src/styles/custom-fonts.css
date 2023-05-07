@@ -1,0 +1,31 @@
+/* Import GalanoGrotesqueBold font */
+@font-face {
+  font-family: "GalanoGrotesqueBold";
+  src: url("../../public/fonts/GalanoGrotesqueBold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Import GalanoGrotesqueExtraBold font */
+@font-face {
+  font-family: "GalanoGrotesqueExtraBold";
+  src: url("../../public/fonts/GalanoGrotesqueExtraBold.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Import GalanoGrotesqueMedium font */
+@font-face {
+  font-family: "GalanoGrotesqueMedium";
+  src: url("../../public/fonts/GalanoGrotesqueMedium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Import GalanoGrotesqueRegular font */
+@font-face {
+  font-family: "GalanoGrotesqueRegular";
+  src: url("../../public/fonts/GalanoGrotesqueRegular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
